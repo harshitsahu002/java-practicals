@@ -1,6 +1,6 @@
 import MultiFile.MultiFilePackage;
 
-public class MultiFile {
+class MultiFile {
 
     public static void main(String args[])
 
